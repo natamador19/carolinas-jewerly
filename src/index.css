@@ -1,3 +1,8 @@
+.theme-general{
+        --color-primary: theme("colors.red.200");
+        --color-secondary:theme("colors.red.500");
+        --color-tertiary:theme("colors.black");
+}
 
 @tailwind base;
 @tailwind components;
